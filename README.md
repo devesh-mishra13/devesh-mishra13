@@ -24,7 +24,9 @@ I'm currently focused on learning Cloud Native Solutions, AI/ML and improving my
 - [LinkedIn](https://www.linkedin.com/in/devesh-mishra-155166249)
 - [Instagram](https://instagram.com/deveshmishra1307?igshid=OGQ5ZDc2ODk2ZA==)
 
-## Badges
+## Hacktoberfest 2023 Participant
+
+I successfully completed the Hacktoberfest 2023 challenge and earned the badge!
 
 - ![Hacktoberfest 2023 Badge]((https://www.holopin.io/@deveshmishra13))
 
