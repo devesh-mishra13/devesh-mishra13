@@ -28,7 +28,7 @@ I'm currently focused on learning Cloud Native Solutions, AI/ML and improving my
 
 I successfully completed the Hacktoberfest 2023 challenge and earned the badge!
 
-- [Hacktoberfest 2023 Badge]((https://www.holopin.io/@deveshmishra13))
+- [Hacktoberfest 2023 Badge](https://www.holopin.io/@deveshmishra13)
 
 ## 🚀 Projects
 
